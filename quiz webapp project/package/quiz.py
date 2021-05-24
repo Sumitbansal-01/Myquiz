@@ -227,5 +227,3 @@ class quiz:
         for i in range(len(self.q)):
             print(self.q[i])
             print("Ans:-",self.ans[i])
-					
-b=quiz()
